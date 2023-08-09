@@ -1,1 +1,9 @@
 # aplikasi-login-d1
+
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman beranda.
+
+
+- "Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software"
